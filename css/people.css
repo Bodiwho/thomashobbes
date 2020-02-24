@@ -1,8 +1,12 @@
 .section1 td{
-	margin-top: 100px;
+	margin-top: 10vh;
 	color: black;
 	font-size: 50px;
 	font-family: Timesnewroman;
+}
+
+.section1 tr{
+	margin-bottom: 100vh;
 }
 
 .section1 table{
@@ -12,21 +16,22 @@
 }
 
 .section1 table tr td img{
-	margin-left: 350px;
+	margin-left: 30vw;
 	margin-right: 200px;
-	margin-bottom: 10px;
-	width: 400px;
-	height: 300px;
+	margin-bottom: 10vh;
+	width: 240px;
+	height: 360px;
 }
 
 
 .section1 table tr td p{
-	font-size:22px;
+	font-size: 2em;
 	font-family: Georgia;
 	margin-top: 30px;
 	word-spacing: 2px;
 	line-height: 40px;
 	margin-right: 180px;
+	margin-left: 10vw;
 	text-align: justify;
 	margin-bottom: 150px;
 }
